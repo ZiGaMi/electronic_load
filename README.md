@@ -1,4 +1,4 @@
-# Electornic Load Rev1.1 
+# Electronic Load Rev1.1 
 # 
 Supports constant current (CC), constant power (CP) and constant resistance modes (CR).
 
